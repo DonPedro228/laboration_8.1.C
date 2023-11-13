@@ -1,0 +1,5 @@
+﻿  laboration_8.1.C.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_8.1.C\laboration_8.1.C.cpp(12,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_8.1.C\laboration_8.1.C.cpp(14,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_8.1.C\laboration_8.1.C.cpp(35,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  laboration_8.1.C.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_8.1.C\x64\Debug\laboration_8.1.C.exe
